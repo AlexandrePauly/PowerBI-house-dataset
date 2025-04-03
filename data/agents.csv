@@ -1,0 +1,31 @@
+AgentID,FirstName,LastName,Phone,Email,AgencyName,Region,ExperienceYears
+101,Marie,Leblanc,"+33 6 12 34 56 78","marie.leblanc@immo.fr","ImmoParis","Île-de-France",5
+102,Pierre,Dubois,"+33 6 98 76 54 32","pierre.dubois@parisimmo.fr","PariLogis","Île-de-France",7
+103,Lucie,Martin,"+33 4 72 12 34 56","lucie.martin@lyonimmo.fr","LyonHabitat","Auvergne-Rhône-Alpes",4
+104,Hugo,Renaud,"+33 4 70 98 23 45","hugo.renaud@lyonimmo.fr","LyonHabitat","Auvergne-Rhône-Alpes",6
+105,Sarah,Durand,"+33 6 11 22 33 44","sarah.durand@mrsimmo.fr","MarseilleProvence","PACA",10
+106,Karim,Benali,"+33 6 45 67 12 09","karim.benali@azurimmo.fr","AzurAgency","PACA",3
+107,Pauline,Verdi,"+33 6 78 99 33 22","pauline.verdi@frimmo.fr","FrImmo","Île-de-France",8
+108,Alexandre,Muller,"+33 6 93 45 76 21","alex.muller@logi.fr","CityLogis","Auvergne-Rhône-Alpes",2
+109,Estelle,Ferrand,"+33 6 55 44 33 66","estelle.ferrand@immo.fr","ImmoParis","Île-de-France",4
+110,Bruno,Gianni,"+33 6 70 80 90 10","bruno.gianni@mrsimmo.fr","MarseilleProvence","PACA",6
+111,Paul,Ricard,"+33 6 74 12 03 21","paul.ricard@immo.fr","ImmoParis","Île-de-France",12
+112,Anna,Legrand,"+33 6 15 78 22 99","anna.legrand@parisimmo.fr","PariLogis","Île-de-France",4
+113,Noémie,Blanc,"+33 4 71 52 34 89","noemie.blanc@lyonimmo.fr","LyonHabitat","Auvergne-Rhône-Alpes",5
+114,Romain,Lefevre,"+33 4 70 11 23 55","romain.lefevre@lyonimmo.fr","LyonHabitat","Auvergne-Rhône-Alpes",7
+115,Léa,Bertrand,"+33 6 21 32 44 55","lea.bertrand@mrsimmo.fr","MarseilleProvence","PACA",9
+116,Clara,Meunier,"+33 6 81 72 11 08","clara.meunier@azurimmo.fr","AzurAgency","PACA",3
+117,Jean,Bailly,"+33 6 11 22 77 88","jean.bailly@frimmo.fr","FrImmo","Île-de-France",10
+118,Thomas,Perrot,"+33 6 22 33 44 55","thomas.perrot@logi.fr","CityLogis","Auvergne-Rhône-Alpes",4
+119,Emma,Leroy,"+33 6 57 44 33 99","emma.leroy@immo.fr","ImmoParis","Île-de-France",6
+120,Axel,Marchand,"+33 6 79 80 40 30","axel.marchand@mrsimmo.fr","MarseilleProvence","PACA",5
+121,Diana,Schmidt,"+49 30 1234 5678","diana.schmidt@immo.de","ImmoBerlin","Berlin",8
+122,Luca,Bernardi,"+39 06 1234 5678","luca.bernardi@immo.it","CasaRoma","Lazio",7
+123,Ana,Gonzalez,"+34 91 123 4567","ana.gonzalez@immo.es","CasaMadrid","Madrid",5
+124,Jonas,Larsson,"+46 8 555 1234","jonas.larsson@immo.se","StockImmo","Stockholm",4
+125,Petra,Kovac,"+385 1 2345 678","petra.kovac@immo.hr","ZagrebImmo","Zagreb",6
+126,Sonia,Moreau,"+33 6 45 12 67 98","sonia.moreau@frimmo.fr","FrImmo","Île-de-France",2
+127,Luc,Chevalier,"+33 6 82 79 12 09","luc.chevalier@lyonimmo.fr","LyonHabitat","Auvergne-Rhône-Alpes",11
+128,Jade,Fontaine,"+33 6 70 54 76 21","jade.fontaine@mrsimmo.fr","MarseilleProvence","PACA",4
+129,Marina,Ortega,"+34 91 234 8765","marina.ortega@immo.es","CasaMadrid","Madrid",9
+130,Pablo,Lopez,"+34 91 555 4321","pablo.lopez@immo.es","CasaMadrid","Madrid",6
